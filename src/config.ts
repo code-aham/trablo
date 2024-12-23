@@ -3,10 +3,10 @@ import type { Site, Ui, Features } from './types'
 export const SITE: Site = {
   website: 'https://astro-antfustyle-theme.vercel.app/',
   base: '/',
-  title: 'Astro AntfuStyle Theme',
+  title: 'Travel Blog',
   description:
-    'A customizable, feature-rich Astro theme for blog and portfolio creation',
-  author: 'Stephanie Lin',
+    'a Tourism package explorer',
+  author: 'Farnoon Abudhahir',
   lang: 'en',
   ogLocale: 'en_US',
 }
